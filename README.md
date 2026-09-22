@@ -1,49 +1,65 @@
+<!-- Animated Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg;CSE+Undergrad+@+IIIT+Kota;Full-Stack+%26+AI+Developer;Building+RAG+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg+👋;CSE+Undergrad+@+IIIT+Kota;Building+AI-Powered+Web+Apps;Edge+AI+%26+LLM+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Monster" width="25" /> About Me
+### 👾 About Me
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="65%" style="border: none;">
       <ul>
-        <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota.</li>
-        <li>🚀 Building full-stack web applications and robust <b>RAG architectures</b> using LangChain, Groq, and ChromaDB.</li>
-        <li>🏆 <b>1st Place Winner</b> at the Enigma '26 Generative AI Hackathon (co-organized with OpenAI).</li>
-        <li>🐧 Daily driving <b>Arch Linux</b> customized with the <b>Hyprland</b> window manager.</li>
-        <li>🎮 When I'm taking a break from code, I'm usually playing VALORANT or exploring game design concepts.</li>
+        <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI[cite: 6].</li>
+        <li>🚀 Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems[cite: 6].</li>
+        <li>🏆 <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon[cite: 6].</li>
+        <li>📱 Developing offline Progressive Web Apps (PWAs) using TensorFlow.js and real-time telephony AI systems using Twilio[cite: 6].</li>
+        <li>⚙️ Passionate about backend engineering and building scalable systems with YOLOv8, Groq Llama 3, and ChromaDB[cite: 6].</li>
         <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/ujjwal-garg-a56245333/">LinkedIn</a>.</li>
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <img src="https://media.tenor.com/2ROXntq0g3wAAAAM/cat-typing.gif" alt="Coding Cat" width="250" style="border-radius: 10px;" />
+      <!-- Reliable GitHub-hosted GIF that won't get blocked -->
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mac-boy.gif" alt="Coding Boy" width="220" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <br>
+  <!-- Frontend & Backend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <br>
+  <!-- Databases & AI/ML -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" alt="YOLOv8" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/e-mail.png" alt="Mail" width="25" /> Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
   <a href="mailto:ujjwalgarghsr28@gmail.com">
