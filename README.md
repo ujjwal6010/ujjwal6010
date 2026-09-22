@@ -16,8 +16,6 @@
         <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI.</li>
         <li>🚀 Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems.</li>
         <li>🏆 <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon.</li>
-        <li>📱 Developing offline Progressive Web Apps (PWAs) using TensorFlow.js and real-time telephony AI systems using Twilio.</li>
-        <li>⚙️ Passionate about backend engineering and building scalable systems with YOLOv8, Groq Llama 3, and ChromaDB.</li>
         <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/ujjwal-garg-a56245333/">LinkedIn</a>.</li>
       </ul>
     </td>
