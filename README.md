@@ -5,8 +5,7 @@
   </a>
 </div>
 
-<!-- Animated Neon Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 ### 👾 About Me
 
@@ -21,21 +20,13 @@
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <!-- Forced Raw GIF to bypass blocking -->
-      <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/coding.gif" alt="Coding GIF" width="220" style="border-radius: 10px;" />
+      <!-- Reliable GitHub-hosted GIF that bypasses Camo blocking -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="220" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal6010&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Ujjwal's GitHub Stats" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 ### 💻 Tech Stack & Tools
 
@@ -64,7 +55,7 @@
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 ### 📫 Connect With Me
 
