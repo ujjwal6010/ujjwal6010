@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg+👋;CSE+Undergrad+@+IIIT+Kota;Building+AI-Powered+Web+Apps;Edge+AI+%26+LLM+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg;CSE+Undergrad+@+IIIT+Kota;Building+AI-Powered+Web+Apps;Edge+AI+%26+LLM+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,17 +13,17 @@
   <tr style="border: none;">
     <td width="65%" style="border: none;">
       <ul>
-        <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI[cite: 6].</li>
-        <li>🚀 Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems[cite: 6].</li>
-        <li>🏆 <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon[cite: 6].</li>
-        <li>📱 Developing offline Progressive Web Apps (PWAs) using TensorFlow.js and real-time telephony AI systems using Twilio[cite: 6].</li>
-        <li>⚙️ Passionate about backend engineering and building scalable systems with YOLOv8, Groq Llama 3, and ChromaDB[cite: 6].</li>
+        <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI.</li>
+        <li>🚀 Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems.</li>
+        <li>🏆 <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon.</li>
+        <li>📱 Developing offline Progressive Web Apps (PWAs) using TensorFlow.js and real-time telephony AI systems using Twilio.</li>
+        <li>⚙️ Passionate about backend engineering and building scalable systems with YOLOv8, Groq Llama 3, and ChromaDB.</li>
         <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/ujjwal-garg-a56245333/">LinkedIn</a>.</li>
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <!-- Reliable GitHub-hosted GIF that won't get blocked -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mac-boy.gif" alt="Coding Boy" width="220" style="border-radius: 10px;" />
+      <!-- Reliable GitHub-hosted GIF that bypasses Camo blocking -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="220" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
