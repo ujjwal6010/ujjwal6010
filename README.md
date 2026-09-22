@@ -1,11 +1,12 @@
-<!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg+👋;CSE+Undergrad+@+IIIT+Kota;Full-Stack+%26+AI+Developer;Building+RAG+Architectures" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ujjwal+Garg;CSE+Undergrad+@+IIIT+Kota;Full-Stack+%26+AI+Developer;Building+RAG+Architectures" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Monster" width="25" /> About Me
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -20,15 +21,14 @@
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <!-- Modern aesthetic GIF to break up text -->
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Cat" width="220" style="border-radius: 10px;" />
+      <img src="https://media.tenor.com/2ROXntq0g3wAAAAM/cat-typing.gif" alt="Coding Cat" width="250" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -43,17 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Dynamic stat cards using a dark/neon theme to match GitHub Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwal6010&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal6010&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
----
-
-### 📬 Connect With Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/e-mail.png" alt="Mail" width="25" /> Connect With Me
 
 <div align="center">
   <a href="mailto:ujjwalgarghsr28@gmail.com">
