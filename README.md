@@ -7,16 +7,16 @@
 
 ---
 
-### 👾 About Me
+###  About Me
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="65%" style="border: none;">
       <ul>
-        <li>🎓 <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI.</li>
-        <li>🚀 Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems.</li>
-        <li>🏆 <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon.</li>
-        <li>🔗 Let's connect on <a href="https://www.linkedin.com/in/ujjwal-garg-a56245333/">LinkedIn</a>.</li>
+        <li> <b>Computer Science & Engineering</b> student at IIIT Kota with a focus on applied AI.</li>
+        <li> Building AI-powered web applications, Edge AI solutions, and LLM-enabled systems.</li>
+        <li> <b>1st Place Winner</b> at the Enigma x OpenAI hackathon and finalist in Hacksagon '26 and GFG Hackathon.</li>
+        <li> Let's connect on <a href="https://www.linkedin.com/in/ujjwal-garg-a56245333/">LinkedIn</a>.</li>
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
